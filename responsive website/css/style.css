@@ -1,0 +1,100 @@
+body{
+    overflow-x: hidden;
+    background-color: white;
+}
+nav{
+    color: white;
+font-size: 12px;
+display: flex;
+background-color: #333333;
+padding-bottom: 12px; 
+padding-top: 12px; 
+height: auto;
+position: fixed; 
+width: 100%;
+}
+nav a{
+    text-decoration: none;
+     color: white;
+     padding-left: 35px;
+     opacity: 0.75;
+}
+#cont{
+    font-size:14px ;
+    padding-top: 10px;
+    height: auto;
+    padding-bottom: 0.5px;
+    color: black;
+    opacity: 0.75;
+}
+#cont a{
+    text-decoration: none;
+    display: inline-flexbox;
+}
+.s{
+    background-color: #FBFBFD;
+    padding-bottom: 10px;
+}
+.s a{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 50px;
+    font-weight: 500;
+}
+.s a:hover{
+    text-decoration: underline;
+}
+
+.ss a{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 50px;
+    font-weight: 500;
+}
+.ss a:hover{
+    text-decoration: underline;
+}
+
+.sec-three{
+    background-image: url("../images/background.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#div-two{
+    background-image: url("../images/two\ iph.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 230px;
+    margin-left: 15px;
+    margin-right: 20px;
+}
+#div-three{
+    background-image: url("../images/orange.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    padding-bottom: 320px;
+    margin-left: 20px;
+}
+#div-four{
+    margin-left: 15px;
+    margin-right: 20px;
+}
+#div-five{
+    background-image: url("../images/bg\ watch.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 60px;
+    margin-left: 20px;
+    padding-bottom: 350px;
+}
+
+
